@@ -49,7 +49,7 @@ Make sure you check out [INSTALL.md](INSTALL.md) before getting started.
   - [Why is it named 'deepfakes' if it is not /u/deepfakes?](#why-is-it-named-deepfakes-if-it-is-not-udeepfakes)
   - [What if /u/deepfakes feels bad about that?](#what-if-udeepfakes-feels-bad-about-that)
 - [About machine learning](#about-machine-learning)
-  - [How does a computer know how to recognize/shape faces? How does machine learning work? What is a neural network?](#how-does-a-computer-know-how-to-recognizeshape-faces-how-does-machine-learning-work-what-is-a-neural-network) --->
+  - [How does a computer know how to recognize/shape faces? How does machine learning work? What is a neural network?](#how-does-a-computer-know-how-to-recognizeshape-faces-how-does-machine-learning-work-what-is-a-neural-network)
 
 # Manifesto
 
@@ -196,4 +196,4 @@ It's complicated. Here's a good video that makes the process understandable:
 Here's a slightly more in depth video that tries to explain the basic functioning of a neural network:
 [![How Machines Learn](https://img.youtube.com/vi/aircAruvnKk/0.jpg)](https://www.youtube.com/watch?v=aircAruvnKk)
 
-tl;dr: training data + trial and error
+tl;dr: training data + trial and error --->
