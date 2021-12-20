@@ -7,7 +7,7 @@
 <img src = "https://i.imgur.com/nWHFLDf.jpg"></img>
 </p>
 
-/*<p align="center">
+<!---<p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/2Fm2JAtUkv"><img src="https://i.imgur.com/gIpztkv.png"></img></a></p>
 <p align="center">
   <a href="https://www.youtube.com/watch?v=r1jng79a5xc"><img src="https://img.youtube.com/vi/r1jng79a5xc/0.jpg"></img></a>
@@ -49,7 +49,7 @@ Make sure you check out [INSTALL.md](INSTALL.md) before getting started.
   - [Why is it named 'deepfakes' if it is not /u/deepfakes?](#why-is-it-named-deepfakes-if-it-is-not-udeepfakes)
   - [What if /u/deepfakes feels bad about that?](#what-if-udeepfakes-feels-bad-about-that)
 - [About machine learning](#about-machine-learning)
-  - [How does a computer know how to recognize/shape faces? How does machine learning work? What is a neural network?](#how-does-a-computer-know-how-to-recognizeshape-faces-how-does-machine-learning-work-what-is-a-neural-network) */
+  - [How does a computer know how to recognize/shape faces? How does machine learning work? What is a neural network?](#how-does-a-computer-know-how-to-recognizeshape-faces-how-does-machine-learning-work-what-is-a-neural-network) --->
 
 # Manifesto
 
