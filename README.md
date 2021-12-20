@@ -1,11 +1,11 @@
-# deepfakes_faceswap
+<!---# deepfakes_faceswap
 <p align="center">
   <a href="https://faceswap.dev"><img src="https://i.imgur.com/zHvjHnb.png"></img></a>
 <br />FaceSwap is a tool that utilizes deep learning to recognize and swap faces in pictures and videos.
 </p>
 <p align="center">
 <img src = "https://i.imgur.com/nWHFLDf.jpg"></img>
-</p>
+</p> -->
 
 <p align="center">
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://discord.gg/2Fm2JAtUkv"><img src="https://i.imgur.com/gIpztkv.png"></img></a></p>
